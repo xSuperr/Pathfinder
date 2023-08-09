@@ -1,0 +1,8 @@
+build-by-default: true
+branches:
+- V2-PM5
+projects:
+  libPathfinder:
+    path: ""
+    type: library
+    model: virion
